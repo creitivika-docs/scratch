@@ -2,4 +2,5 @@ theme: jekyll-theme-cayman
 title: "Образовательные материалы по Scratch"
 description: "От Креайтивики"
 show_downloads: false
- 
+github:
+  is_project_page: false
