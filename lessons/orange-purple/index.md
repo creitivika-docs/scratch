@@ -8,9 +8,9 @@ desctiption: Дайте волю своему воображению
 В этот раз ты сделаешь проект, в котором будут оранжевый квадрат и фиолетовый. Для этого нужно будет научиться их рисовать. А ещё ты познакомишься с эффектами в Scratch — это очень весёлая штука! Для начала посмотри видео:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JRN3JkM7Nps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- 0:00 Как быстро и ровно нарисовать оранжевый квадрат и фиолетовый круг
-- 5:53 Графические эффекты
-- 9:15 С чего начать, если нет идей
+- [0:00](https://www.youtube.com/watch?v=JRN3JkM7Nps&t=0s) Как быстро и ровно нарисовать оранжевый квадрат и фиолетовый круг
+- [5:53](https://youtu.be/JRN3JkM7Nps?t=353) Графические эффекты
+- [9:15](https://www.youtube.com/watch?v=JRN3JkM7Nps&t=555s) С чего начать, если нет идей
 
 
 
