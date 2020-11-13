@@ -1,10 +1,13 @@
 ---
-title: "«Оно живое!»"
+title: «Оно живое!»
 published: true
 desctiption: Оживи свой проект!
 ---
-
 # «Оно живое!»
+
+Давай оживим проекты с помощью смены костюмов в спрайтах!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5UoYWuydVf4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Примеры проектов
 https://scratch.mit.edu/studios/25416880/ 
