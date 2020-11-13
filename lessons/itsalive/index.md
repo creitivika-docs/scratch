@@ -52,4 +52,4 @@ https://scratch.mit.edu/studios/25416880/
 ## Итоги
 Не забудь опубликовать итоговый проект и добавить в студию «Креайтивика»! А ещё заполни анкету ниже:
 
-
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScPti2iwKYpGmIugE_yQeH4cokA-rZ93GQl77xcgviPMkjB5Q/viewform?embedded=true" width="640" height="801" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
