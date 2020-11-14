@@ -2,6 +2,7 @@
 title: «Оно живое!»
 published: true
 desctiption: Оживи свой проект!
+description: Оживи свой проект!
 ---
 # «Оно живое!»
 
