@@ -6,9 +6,9 @@ published: true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LiVhzD2u7fE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-0:00 музыкальное видео
-5:20 скачать гифки и добавить в проект
-7:07 как удалить фон с гифки или картинки
+0:00 музыкальное видео  
+5:20 скачать гифки и добавить в проект  
+7:07 как удалить фон с гифки или картинки  
 9:19 если песня слишком большая и проект не сохраняется — онлайн-аудиоконвертер
 
 ## Ресурсы
