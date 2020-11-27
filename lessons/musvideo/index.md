@@ -1,13 +1,24 @@
 ---
 title: Музыкальное видео
 description: Значит типа мы сегодня назначаем вечеринку
+published: true
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LiVhzD2u7fE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+0:00 музыкальное видео
+5:20 скачать гифки и добавить в проект
+7:07 как удалить фон с гифки или картинки
+9:19 если песня слишком большая и проект не сохраняется — онлайн-аудиоконвертер
 
 ## Ресурсы
 
-- Примеры — в студии «Музыкальное видео»: [clc.to/musvid](//clc.to/musvid)  или [bit.do/musvid](//bit.do/musvid) или [scratch.mit.edu/studios/28125619](//scratch.mit.edu/studios/28125619)
+- Примеры проектов — в студии «Музыкальное видео»: [clc.to/musvid](//clc.to/musvid) . Короткие ссылки туда [bit.do/musvid](//bit.do/musvid) или [scratch.mit.edu/studios/28125619](//scratch.mit.edu/studios/28125619)
 - Сайт [giphy.com](//giphy.com) для поиска гифок
+- Сайт [www.remove.bg/ru/](//www.remove.bg/ru/) для удаления фона с картинок
+- Сайт [www.unscreen.com/](//www.unscreen.com/) для удаления фона с гифок
 - Онлайн-конвертер аудио для ужатия аудио до «нормального» качества [online-audio-converter.com/ru](//online-audio-converter.com/ru) (поможет если аудио настолько большое, что проект не может сохраниться)
+
 
 ## Основное задание
 
@@ -50,5 +61,3 @@ description: Значит типа мы сегодня назначаем веч
 ## Рефлексия
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf1n0yIH-nxvxXbpHoqq6hJMXGZDAka2f9VIjLhKQI2WLls5A/viewform?embedded=true" width="640" height="900" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
-
-
