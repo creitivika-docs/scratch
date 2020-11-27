@@ -6,3 +6,4 @@
 - [Оранжевый квадрат, фиолетовый круг](/scratch/lessons/orange-purple/)
 - [«Оно живое!»](/scratch/lessons/itsalive/)
 - [Отладка 2, «Сюрприз»](/scratch/lessons/otladkan2/)
+- [Музыкальное видео](/scratch/lessons/musvideo/)
