@@ -3,6 +3,7 @@ title: Музыкальное видео
 description: Значит типа мы сегодня назначаем вечеринку
 published: true
 ---
+Создай музыкальное видео! Это может быть клип или просто дискотека, музыку можно создать самому с помощью музыкальных блоков — главное, чтобы это был хороший проект. Скорее всего, чем больше разных спрайтов с разными скриптами у тебя будет, тем лучше.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LiVhzD2u7fE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
