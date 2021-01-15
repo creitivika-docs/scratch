@@ -8,6 +8,8 @@ published: true
 
 Сегодня мы будем создавать новых персонажей с особенными дейсвтвиями для каждого. Бывает полезно упаковать эти действия в отдельные, свои блоки. И мы этим сегодня воспользуемся. Посмотри видео и картинки о том, как создавать для персонажей их собственные блоки-команды и вперёд!
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3NWZ2zG7qWo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![ownblok1.png]({{site.baseurl}}/lessons/persons/ownblok1.png)
 ![ownblok2.png]({{site.baseurl}}/lessons/persons/ownblok2.png)
 
