@@ -7,3 +7,4 @@
 - [«Оно живое!»](/scratch/lessons/itsalive/)
 - [Отладка 2, «Сюрприз»](/scratch/lessons/otladkan2/)
 - [Музыкальное видео](/scratch/lessons/musvideo/)
+- [Персонажи](/scratch/lessons/persons/)
