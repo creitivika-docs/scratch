@@ -1,11 +1,14 @@
 ---
 title: Диалоги
 description: Давай поболтаем
+published: true
 ---
 
 # Диалоги
 
 Давай-ка поучим наши спрайты разговаривать друг с другом и вообще согласовывать, договариваться, когда кто и что делает. Для этого можно использовать два подхода — тайминг и вещание. Или счёт и планирование времени (блок «ждать» очень пригодится) и сообщения
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DZbvLM1ff54" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Примеры проектов
 
