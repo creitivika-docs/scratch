@@ -1,7 +1,6 @@
 ---
-title: "Диалоги"
-description: "Давай поболтаем"
-publish:true
+title: Диалоги
+description: Давай поболтаем
 ---
 
 ## Примеры проектов
@@ -39,5 +38,3 @@ publish:true
 Не забудь опубликовать итоговый проект и добавить в студию «Креайтивика»! А ещё заполни анкету ниже:
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScVew2vGwKWfCBJFY2vNmUbruNneIkdJNIOmcoo9-9oRGbdDw/viewform?embedded=true" width="640" height="833" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
-
-
