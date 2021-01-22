@@ -1,3 +1,21 @@
-## A New Post
+---
+title: "Диалоги"
+description: "Давай поболтаем"
+---
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Лист заданий «Диалоги»
+1. <input type="checkbox">Посмотри проекты из студии «Диалоги» https://scratch.mit.edu/studios/28608652/ 
+2. <input type="checkbox">Придумай свой диалог — между любыми двумя персонажами, которые тебе интересны. Это может быть анекдот или другой диалог, который придумали до тебя
+3. <input type="checkbox">Создай скретч-проект
+4. <input type="checkbox">Добавь туда двух персонажей из твоего диалога
+5. <input type="checkbox">Добавь им код, чтобы они проговорили диалог. Используй блоки «говорить» и «ждать»
+6. <input type="checkbox">Добавь в проект фон
+7. <input type="checkbox">Добавь в проект звуки
+8. <input type="checkbox">Создай новый проект для нового диалога, или сделай ремикс и изучи этот проект https://scratch.mit.edu/projects/476776190/ )
+9. <input type="checkbox">Добавь персонажей, если нужно
+10. <input type="checkbox">С помощью блоков «передать сообщение» и «когда я получу сообщения» (в категории «события») создай персонажам код, благодаря которому они проговорят этот диалог
+11. <input type="checkbox">Добавь в новый проект фон
+12. <input type="checkbox">Добавь в новый проект звуки
+13. <input type="checkbox">Создай копию проекта и переделай его с использованием «передать сообщение и ждать». Можешь создать новый диалог.
+
+
