@@ -3,6 +3,8 @@ title: Диалоги
 description: Давай поболтаем
 ---
 
+# Диалоги
+
 ## Примеры проектов
 
 [scratch.mit.edu/studios/28608652/](https://scratch.mit.edu/studios/28608652/)
