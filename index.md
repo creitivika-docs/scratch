@@ -9,3 +9,4 @@
 - [Музыкальное видео](/scratch/lessons/musvideo/)
 - [Персонажи](/scratch/lessons/persons/)
 - [Диалоги](/scratch/lessons/dialogs/)
+- [Сцены](/scratch/lessons/scenes/)
