@@ -10,3 +10,4 @@
 - [Персонажи](/scratch/lessons/persons/)
 - [Диалоги](/scratch/lessons/dialogs/)
 - [Сцены](/scratch/lessons/scenes/)
+- [Передай дальше](/scratch/lessons/dalshe/)
