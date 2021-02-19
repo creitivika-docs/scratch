@@ -11,3 +11,7 @@
 - [Диалоги](/scratch/lessons/dialogs/)
 - [Сцены](/scratch/lessons/scenes/)
 - [Передай дальше](/scratch/lessons/dalshe/)
+- [Игры для начинающих](/scratch/lessons/games/)
+
+
+
