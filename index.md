@@ -12,6 +12,4 @@
 - [Сцены](/scratch/lessons/scenes/)
 - [Передай дальше](/scratch/lessons/dalshe/)
 - [Игры для начинающих](/scratch/lessons/games/)
-
-
-
+- [Счёт](/scratch/lessons/score/)
