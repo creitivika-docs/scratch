@@ -1,6 +1,6 @@
 ## Задания по теме «Счёт»
 
-1. Открой и изучи проект «Голодная рыба»: bit.do/golryb или scratch.mit.edu/projects/488603277 или clc.am/golryb — по любой из трёх ссылок откроется нужный проект
+1. Открой и изучи проект «Голодная рыба»: [bit.do/golryb](https://bit.do/golryb) или [scratch.mit.edu/projects/488603277](https://scratch.mit.edu/projects/488603277) или [clc.am/golryb](https://scratch.mit.edu/projects/488603277) — по любой из трёх ссылок откроется нужный проект
 2. Создай переменную «Счёт» в разделе «Переменные»
 ![makevariable.png]({{site.baseurl}}/lessons/score/makevariable.png)
 3. Поставь галочку слева от переменной «Счёт». Видишь, она отобразилась на сцене? В неё записано число «0».
